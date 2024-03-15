@@ -1,0 +1,200 @@
+**************************Sample Event Data
+
+key: 2063157390 value: Aging Successfully in Community
+key: 2063157392 value: 02/17/2024
+key: 2063157393 value: 10:00 AM
+key: 2063157661 value: 11:30 A<
+key: 2063157660 value: none
+key: 2063157662 value: none
+key: 2063157395 value: 
+  [value] 169
+  [name] 
+key: 2063157396 value: 
+key: 2063157859 value: Team
+key: 2063158040 value: 
+  [value] 438
+  [name] 
+key: 2063157596 value: Further planning for the new RE Council Team:  "Aging Successfully in Community".
+key: 2063157391 value: 
+  [0] 
+  [name] 
+  [value] 220
+key: 2063157388 value: 
+  [id] 16247610
+  [oid] 132094
+  [first_name] Carolyn
+  [last_name] Madsen
+  [created_on] 2024-02-14 10:31:35
+key: 2063157389 value: carolynzac@comcast.net
+
+
+***********************************FORM ENTRIES
+
+Array
+(
+    [0] => Array
+        (
+            [id] => 106203013
+            [oid] => 132094
+            [form_id] => 607160
+            [created_on] => 2024-02-14 10:31:35
+            [person_id] => 27346608
+            [response] => Array
+                (
+                    [2063157390] => Aging Successfully in Community
+                    [2063157392] => 02/17/2024
+                    [2063157393] => 10:00 AM
+                    [2063157661] => 11:30 A<
+                    [2063157660] => none
+                    [2063157662] => none
+                    [2063157395] => Array
+                        (
+                            [value] => 169
+                            [name] => 
+                        )
+
+                    [2063157396] => 
+                    [2063157859] => Team
+                    [2063158040] => Array
+                        (
+                            [value] => 438
+                            [name] => 
+                        )
+
+                    [2063157596] => Further planning for the new RE Council Team:  "Aging Successfully in Community".
+                    [2063157391] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => 
+                                    [value] => 220
+                                )
+
+                        )
+
+                    [2063157388] => Array
+                        (
+                            [id] => 16247610
+                            [oid] => 132094
+                            [first_name] => Carolyn
+                            [last_name] => Madsen
+                            [created_on] => 2024-02-14 10:31:35
+                        )
+
+                    [2063157389] => carolynzac@comcast.net
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 106199365
+            [oid] => 132094
+            [form_id] => 607160
+            [created_on] => 2024-02-13 15:28:37
+            [person_id] => 27345498
+            [response] => Array
+                (
+                    [2063157390] => Bob Oz's Adopt-A-Highway Cleanup
+                    [2063157392] => 03/30/2024
+                    [2063157393] => 9:00am
+                    [2063157661] => noon
+                    [2063157660] => none
+                    [2063157662] => none
+                    [2063157395] => Array
+                        (
+                            [value] => 169
+                            [name] => 
+                        )
+
+                    [2063157396] => quarterly (or, at least semi-yearly)
+                    [2063157859] => Justice
+                    [2063158040] => Array
+                        (
+                            [value] => 437
+                            [name] => 
+                        )
+
+                    [2063157596] => ODOT's Adopt-A-Highway beautifies road shoulders from litter and transport detritus.  We clean up a patch of Hwy20 (aka Philomath Blvd) from 53rd St. to Newton Creek Bridge at the Philomath City line.
+                    [2063157391] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => 
+                                    [value] => 362
+                                )
+
+                        )
+
+                    [2063157388] => Array
+                        (
+                            [id] => 16244083
+                            [oid] => 132094
+                            [first_name] => Scott
+                            [last_name] => Bruslind
+                            [created_on] => 2024-02-13 15:28:37
+                        )
+
+                    [2063157389] => sbruslind@gmail.com
+                )
+
+        )
+
+    [2] => Array
+        (
+            [id] => 106195106
+            [oid] => 132094
+            [form_id] => 607160
+            [created_on] => 2024-02-12 23:22:55
+            [person_id] => 27346342
+            [response] => Array
+                (
+                    [2063157390] => DAT Launch of writing
+                    [2063157392] => 03/14/2024
+                    [2063157393] => 5 pm
+                    [2063157661] => 7 pm
+                    [2063157660] => 4:15
+                    [2063157662] => 8:30 pm
+                    [2063157395] => Array
+                        (
+                            [value] => 169
+                            [name] => 
+                        )
+
+                    [2063157396] => 
+                    [2063157859] => DAT Team
+                    [2063158040] => Array
+                        (
+                            [value] => 437
+                            [name] => 
+                        )
+
+                    [2063157596] => Launch of Democracy Action Team Writing
+
+By the way I will set an orientation for the kitchen asap
+                    [2063157391] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => 
+                                    [value] => 223
+                                )
+
+                        )
+
+                    [2063157388] => Array
+                        (
+                            [id] => 16239713
+                            [oid] => 132094
+                            [first_name] => Karen
+                            [last_name] => Josephson
+                            [created_on] => 2024-02-12 23:22:55
+                        )
+
+                    [2063157389] => kjosephson67@gmail.com
+                )
+
+        )
+
+)          
+

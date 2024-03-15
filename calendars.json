@@ -1,0 +1,73 @@
+[
+{
+  "id":0,
+  "oid":"132094",
+  "name":"Main",
+  "color":"b2cd92",
+  "address":"https:\/\/uufc.breezechms.com\/events\/feed\/ATM%3D\/CzheO1ZgV2EGOQZk",
+  "embed_key":"VmQ%3D"
+},
+{
+  "id":"89752",
+  "oid":"132094",
+  "name":"Adult RE (public calendar)",
+  "color":"526270",
+  "address":"https:\/\/uufc.breezechms.com\/events\/feed\/VW9UOwc0BzRcaA%3D%3D\/BjVXMgM1VWNcYwNh",
+  "created_on":"2023-12-11 08:57:52",
+  "embed_key":"AzkCbQU2VmVUYA%3D%3D"
+},
+{
+  "id":"91073",
+  "oid":"132094",
+  "name":"Closed\/Internal Meetings (private calendar)",
+  "color":"006FBA",
+  "address":"https:\/\/uufc.breezechms.com\/events\/feed\/UGteOVNnVWQHMg%3D%3D\/UGMEYQ85AzVdYgNh",
+  "created_on":"2024-02-01 13:00:43",
+  "embed_key":"UGtRNlNnBDVVYA%3D%3D"
+},
+{
+  "id":"89238",
+  "oid":"132094",
+  "name":"Inquires Series (public calendar)",
+  "color":"621f86",
+  "address":"https:\/\/uufc.breezechms.com\/events\/feed\/VmwHaFZgVmMCPA%3D%3D\/AzBVMFRiVmAHOAVn",
+  "created_on":"2023-11-09 09:19:54",
+  "embed_key":"VmwAbwA2VmNWaA%3D%3D"
+},
+{
+  "id":"86556",
+  "oid":"132094",
+  "name":"Programs and Activities (public calendar)",
+  "color":"ff0056",
+  "address":"https:\/\/uufc.breezechms.com\/events\/feed\/AjhVNVNiUWJdbQ%3D%3D\/VWZWMwcxCz1QbwNh",
+  "created_on":"2023-07-27 10:38:22",
+  "embed_key":"UGpQMAMyVmUGNg%3D%3D"
+},
+{
+  "id":"81098",
+  "oid":"132094",
+  "name":"RE Sundays (private calendar)",
+  "color":"6d969a",
+  "address":"https:\/\/uufc.breezechms.com\/events\/feed\/UmhXMAI2CzRVaw%3D%3D\/UmFeO1ZgBjBcYwJg",
+  "created_on":"2022-11-15 12:36:02",
+  "embed_key":"V21eOVZiVmlWaA%3D%3D"
+},
+{
+  "id":"86204",
+  "oid":"132094",
+  "name":"Rentals (private calendar)",
+  "color":"d1ba39",
+  "address":"https:\/\/uufc.breezechms.com\/events\/feed\/BjxXN1ZgVmBWZA%3D%3D\/BjVUMQA2CjxdYgpo",
+  "created_on":"2023-07-10 11:10:48",
+  "embed_key":"CjACYgcxAzUFNw%3D%3D"
+},
+{
+  "id":"91087",
+  "oid":"132094",
+  "name":"Setup\/Teardown",
+  "color":"bdbdbd",
+  "address":"https:\/\/uufc.breezechms.com\/events\/feed\/VW4FYgYyBzlSYw%3D%3D\/ADMCZwcxVmBRbgJg",
+  "created_on":"2024-02-01 17:02:46",
+  "embed_key":"ATpSNVZiAT8BMA%3D%3D"
+}
+]

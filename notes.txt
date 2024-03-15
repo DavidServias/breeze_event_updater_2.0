@@ -1,0 +1,10 @@
+Mail Server:
+
+Got the error that gmail didn't accept my credentials. 
+Installed composer (php package dependency)
+Created a composer.json file
+
+Tried to install the following command, which didn't work. 
+May need to restart the server?
+ 
+composer require phpmailer/phpmailer
